@@ -15,7 +15,6 @@ SOURCES= \
     ..\ModifierKeyState.cpp \
     ..\MouseEvent.cpp \
     ..\Viewport.cpp \
-    ..\WindowBufferSizeEvent.cpp \
     ..\convert.cpp \
     ..\colorTable.cpp \
     ..\Utf16Parser.cpp \
@@ -24,7 +23,6 @@ SOURCES= \
     ..\ScreenInfoUiaProviderBase.cpp \
     ..\sgrStack.cpp \
     ..\UiaTextRangeBase.cpp \
-    ..\UiaTracing.cpp \
     ..\TermControlUiaProvider.cpp \
     ..\TermControlUiaTextRange.cpp \
 
